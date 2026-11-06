@@ -1,0 +1,2 @@
+- 🎯 Productividad de los operativos macro: https://omscgr.github.io/Operativos-Macro/
+- 💻 Notebook: https://colab.research.google.com/drive/1sbxUGpGIlmQDl3_XuglDUJa-CG3L4_yG?usp=sharing
